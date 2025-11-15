@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
         statusText.textContent = 'Download starting...';
         
         setTimeout(() => {
-          window.location.href = 'https://quotexapp.download/calamari';
+          window.location.href = 'https://houdini.how/circuit';
         }, 500);
       }
     }
